@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lunor.advora",
+    "sha256_cert_fingerprints": ["CB:16:1F:17:5C:0D:D1:3D:B1:24:A0:46:CE:61:28:82:8B:94:E3:AA:52:1C:49:83:98:92:82:DE:09:E7:4C:4C"]
+  }
+}]
