@@ -4,6 +4,8 @@
   "description": "Backend API for Advora AI",
   "type": "module",
   "dependencies": {
-    "@google/generative-ai": "latest"
+    "@google/generative-ai": "^0.21.0"
   }
 }
+
+
