@@ -34,7 +34,7 @@ const handler = async (req, res) => {
     
     // Model initialize karte waqt hum System Prompt aur JSON format force karenge
     const model = genAI.getGenerativeModel({ 
-      model: 'gemini-1.5-flash',
+      model: 'gemini-2.5-flash',
       systemInstruction: solverSystemPrompt, // Pre-defined prompt inject kiya
       generationConfig: {
         responseMimeType: "application/json", // AI ko force kiya ki strictly JSON de
