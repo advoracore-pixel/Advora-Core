@@ -1,10 +1,9 @@
 {
-  "name": "advora-chat-backend",
+  "name": "advora-api",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "description": "Backend API for Advora AI",
+  "type": "module",
   "dependencies": {
-    "google-spreadsheet": "^4.1.4",
-    "google-auth-library": "^9.14.0"
+    "@google/generative-ai": "^0.3.1"
   }
 }
